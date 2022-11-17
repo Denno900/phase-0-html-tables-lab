@@ -1,0 +1,14 @@
+table {
+    width: 400px;
+    height: 300px;
+    border: 1px solid;
+    border-radius: 3px;
+}
+
+tr {
+    border: 1px solid;
+}
+
+.dark-row {
+    background-color: #ccc;
+}
